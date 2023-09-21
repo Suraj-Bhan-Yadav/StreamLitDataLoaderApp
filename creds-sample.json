@@ -1,9 +1,9 @@
 {
-    "account": "account.region",
-    "user": "myuser",
-    "role": "myrole",
-    "password": "************",
-    "warehouse": "mywarehouser",
-    "database": "mydb",
-    "schema": "myschema"
+    "account": "Asia Pacific (Singapore)",
+    "user": "Suraj",
+    "role": "ACCOUNTADMIN",
+    "password": "Tech@$01234",
+    "warehouse": "COMPUTE_WH",
+    "database": "DEMO_DB",
+    "schema": "public"
   }
